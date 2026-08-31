@@ -2,11 +2,19 @@
 
 **IT Specialist | Systems, CDE & Process Automation**
 
-I work on practical IT problems across systems, Microsoft 365, CDE environments and process automation.
+Based in Tuscany, Italy. I have around **6 years of experience in IT**, mainly in corporate and construction/industrial environments, working across infrastructure, Microsoft 365, CDE/BIM platforms, user support and process automation.
 
-My strongest work usually starts from an operational pain point: I understand the workflow, identify what can be simplified or automated, build a practical solution with the right tools — including AI-assisted development when useful — then test it against real-world constraints.
+I like work that starts from a real operational problem: understand the workflow, remove unnecessary steps, standardise what is repetitive and automate what does not need a person in the loop.
 
-I am not focused on being a pure software developer. I am more interested in **technical solutions, systems integration, digital products and physical-digital environments** where technology solves a concrete problem.
+I use AI-assisted development tools when they help me move faster, but I am not focused on being a pure software developer. What interests me more is **owning a problem end-to-end and building practical technical solutions that people can actually use**.
+
+## About me
+
+- Broad IT background: systems, infrastructure, Microsoft 365, CDE/BIM and technical support
+- Strong focus on process improvement and automation
+- Experience working between users, technical systems and external vendors
+- Interested in systems integration, digital products and physical-digital environments
+- Outside IT: music production, sound, product design, UX/UI and creative projects
 
 ## Selected work
 
@@ -27,15 +35,25 @@ Safety-first workflow to verify and grant explicit Read access across multiple S
 
 ## What I work with
 
-`Windows Server` · `Active Directory` · `Microsoft 365` · `SharePoint Online` · `Entra ID` · `Power Automate` · `PowerShell` · `Autodesk Construction Cloud` · `CDE / BIM workflows` · `Networking` · `AI-assisted development`
+**Systems & infrastructure**  
+`Windows Server` · `Active Directory` · `Networking` · `VPN` · `DNS` · `DHCP`
 
-## What interests me next
+**Microsoft 365 & identity**  
+`Microsoft 365` · `SharePoint Online` · `Entra ID` · `MFA` · `Identity & Access Management` · `Power Automate`
 
-I am especially interested in roles and projects around **technical products, digital solutions, system integration, HMI / industrial UX, digital twins, smart buildings, energy and audio technology**.
+**Digital construction / CDE**  
+`Autodesk Construction Cloud` · `CDE / BIM workflows`
+
+**Automation & technical tooling**  
+`PowerShell` · `AI-assisted development` · practical internal tools and workflow automation
+
+## Areas I enjoy exploring
+
+**Technical products · Digital solutions · Systems integration · HMI / Industrial UX · Digital Twin · Smart buildings · Energy · Audio technology**
 
 ## Creative side
 
-Technology is only one side of what I do. Music, sound, visual design and creative projects are long-term interests of mine.
+Technology is only one side of what I do. Music and sound have been long-term interests for me, alongside visual and product design.
 
 ### [Dalon Echoes](https://github.com/loremadda11/dalon.echoes)
 A paused creative website experiment designed as a home for music, visual ideas and written reflections.
