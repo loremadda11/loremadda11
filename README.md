@@ -18,6 +18,11 @@ I use AI-assisted development tools when they help me move faster, but I am not 
 
 ## Selected work
 
+### [Tender Digest Automation](https://github.com/loremadda11/tender-digest-automation)
+An end-to-end email-to-report workflow that connects Microsoft 365 cloud flows with a small Node.js document processor. It separates acquisition, parsing/report generation and delivery, with file-stability checks, exclusive locking, atomic writes, archive rules and negative-path testing.
+
+**Focus:** systems integration · workflow orchestration · Power Automate · Node.js · document processing · reliability
+
 ### [SharePoint Permissions Automation](https://github.com/loremadda11/sharepoint-permissions-automation)
 A real-world permissions workflow for rebuilding granular access across ~150 SharePoint project folders in a large live environment. The project focuses on safe execution at scale: dry-run, limited batches, retry handling and audit reporting.
 
@@ -27,11 +32,6 @@ A real-world permissions workflow for rebuilding granular access across ~150 Sha
 A two-stage external-collaboration workflow: create or verify guest identities in Microsoft Entra ID through Graph, then grant SharePoint access only after the identity stage can be reviewed.
 
 **Focus:** Entra ID · Microsoft Graph · identity & access · external collaboration · process automation
-
-### [SharePoint Bulk Read Access](https://github.com/loremadda11/sharepoint-bulk-read-access)
-A verification-first toolkit for checking and granting explicit Read access across multiple SharePoint Online sites, keeping verification separate from changes and producing before/after reports.
-
-**Focus:** PnP PowerShell · access management · verification · IT operations · auditability
 
 ## What I work with
 
@@ -45,7 +45,7 @@ A verification-first toolkit for checking and granting explicit Read access acro
 `Autodesk Construction Cloud` · `CDE / BIM workflows`
 
 **Automation & technical tooling**  
-`PowerShell` · `AI-assisted development` · practical internal tools and workflow automation
+`PowerShell` · `Node.js` · `AI-assisted development` · practical internal tools and workflow automation
 
 ## Areas of interest
 
